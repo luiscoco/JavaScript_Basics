@@ -1,6 +1,6 @@
 # JavaScript_Basics
 
-1.To run your JavaScript application use the command:
+1.To run your JavaScript file use the command:
 ```
 node filename.js
 ```

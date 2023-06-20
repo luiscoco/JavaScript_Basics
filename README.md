@@ -1,5 +1,11 @@
 # JavaScript_Basics
 
+0.Install Node.js LTS version in your computer (https://nodejs.org/en/download).
+
+Check the installed Node.js version running the command:
+```
+node -v
+```
 1.To run your JavaScript file use the command:
 ```
 node filename.js

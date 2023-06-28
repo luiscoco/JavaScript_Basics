@@ -1,5 +1,7 @@
 # JavaScript_Basics
 
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
 0.Install Node.js LTS version in your computer (https://nodejs.org/en/download).
 
 Check the installed Node.js version running the command:

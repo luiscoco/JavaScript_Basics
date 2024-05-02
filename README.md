@@ -1,5 +1,7 @@
 # JavaScript_Basics
 
+https://www.frontendinterviewquestions.com/interview-questions
+
 https://www.aprendejavascript.dev/
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
